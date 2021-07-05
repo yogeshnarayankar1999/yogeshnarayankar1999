@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 ### Github Stats
 
-![Yogesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lordarcadius&show_icons=true&hide_border=true&count_private=true&theme=radical)
+<img alt="Yogesh Narayankar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yogeshnarayankar1999&show_icons=true&count_private=true&theme=dark" />
 
 [website]: https://yogeshnarayankar.me
 [twitter]: https://twitter.com/YNarayankar
