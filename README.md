@@ -70,6 +70,12 @@ Here are some ideas to get you started:
 
 <img alt="Yogesh Narayankar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yogeshnarayankar1999&show_icons=true&count_private=true&theme=dark" />
 
+### StackOverFlow
+
+<img height="137px"
+  src="https://stackoverflow-card.vercel.app/?userID=11105653&theme=stackoverflow-light"
+/>
+
 [website]: https://yogeshnarayankar.me
 [twitter]: https://twitter.com/YNarayankar
 [linkedin]: https://www.linkedin.com/in/yogesh-narayankar-4ab2151a9/
