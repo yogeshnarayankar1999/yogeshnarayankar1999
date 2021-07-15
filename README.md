@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm [Yogesh!](https://yogeshnarayankar.me) 👋
 
+<a href="https://github.com/nschloe/optimesh">
+  <img src="https://nschloe.github.io/optimesh/cvt-uniform-qnf.webp" align="right" width="20%"/>
+</a>
+
 <br />
 <br />
 
