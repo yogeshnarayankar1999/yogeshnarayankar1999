@@ -74,9 +74,6 @@ Here are some ideas to get you started:
 ## 🛠 &nbsp;Tech Stack
 
 - 💻 &nbsp;
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=00599C)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 <!--   ![Shell Scripting](https://img.shields.io/badge/-Shell%20Scripting-333333?style=flat&logo=shell) -->
   <!-- ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3) -->
