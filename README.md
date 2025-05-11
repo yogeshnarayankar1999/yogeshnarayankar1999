@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![Counter](https://profile-counter.glitch.me/yogeshnarayankar1999/count.svg)
 
 
-## I'm a Student, Developer, and Lazy Person(ofcourse)!
+## I'm a Student, Cyber Security Analyst , and Lazy Person(ofcourse)!
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🔭 I’m currently working on My Skills!
