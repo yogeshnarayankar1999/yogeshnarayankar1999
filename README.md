@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🔭 I’m currently working on My Skills!
-- 🥅 2021 Goals: Contribute more to Open Source projects and build something!
+- 🥅 2025 Goals: Contribute more to Open Source projects and build something!
 - ⚡ Hobbies: I love Penetration Testing! (Still learning)
 
 <a href="https://github.com/yogeshnarayankar1999">
